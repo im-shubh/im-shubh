@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shubham Yadav</h1>
-<h3 align="center">Blockchain Developer | 3+ Years of Experience in Building Decentralized Applications, Smart Contracts, and DeFi Solutions</h3>
+<h3 align="center">Blockchain Developer | Experience in Building Decentralized Applications, Smart Contracts, and DeFi Solutions</h3>
 
 - 📝 I regularly write articles on [https://medium.com/@im-shubh](https://medium.com/@im-shubh)
 
