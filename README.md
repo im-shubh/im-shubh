@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/im-shubham-yadav/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/im-shubham-yadav" height="30" width="40" /></a>
-<a href="https://medium.com/@im-shubh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@im-shubh" height="30" width="40" /></a>
-<a href="https://discordapp.com/users/556769332139655187" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="556769332139655187" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/im-shubham-yadav/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/im-shubham-yadav" height="30" width="40" /></a>
+<a href="https://medium.com/@im-shubh" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@im-shubh" height="30" width="40" /></a>
+<a href="https://discordapp.com/users/556769332139655187" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="556769332139655187" height="30" width="40" /></a>
 </p>
